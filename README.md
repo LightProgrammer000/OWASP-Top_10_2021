@@ -21,7 +21,7 @@ Cada vulnerabilidade foi estudada, testada e explorada, com foco na aplicação 
 </p>
 
 > A sala está disponível publicamente em:  
-🔗 [https://tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)
+🔗 [https://tryhackme.com/room/owasptop102021](https://tryhackme.com/room/owasptop102021)
 
 ---
 
